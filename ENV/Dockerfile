@@ -1,0 +1,4 @@
+FROM almalinux:8
+ENV NAME=SAHITH \
+    AGE=30 \
+    ADDRESS=KADAPA
